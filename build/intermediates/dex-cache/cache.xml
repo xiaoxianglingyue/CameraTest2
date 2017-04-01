@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2\app\libs\adas.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2075cc1e2d8ef7691365e37bf19454ce10b52cd5">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\adas_f26e74a02706adf151d822982abd792a2ebadacd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2\app\libs\aliyun-oss-sdk-android-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b74ca9a118d13d7975c5101d9d212b2c1316f9e2">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\aliyun-oss-sdk-android-2.2.0_172b7b622c52299921e72d110328c3f8299caa31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2\app\libs\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.2.0_6b03087c5819bb523516475bdb81284f64f9905c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bd0b1fc366e79085781e0858a3d648dddac1f44">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ccf972c43f228b42224262bf8240579afdbb82b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_59316f5318fc424e521b02db6e2cf248c36b98cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2\app\libs\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.6.0_e843cf8fc06d8bc93d5189584d1e7e827907aced\classes.dex" />
+    </item>
+
+</items>

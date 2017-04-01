@@ -1,0 +1,223 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+F:\android studio\Agora_Native_SDK_for_Android_FULL\samples\CameraTest2
+          -                                                            
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .metadata\
+* .metadata\.lock
+* .metadata\.log
+* .metadata\.plugins\
+* .metadata\.plugins\org.eclipse.cdt.core\
+* .metadata\.plugins\org.eclipse.cdt.core\.log
+* .metadata\.plugins\org.eclipse.cdt.core\AdasUpdate.1472018419854.pdom
+* .metadata\.plugins\org.eclipse.cdt.core\adas_lib.1472019171415.pdom
+* .metadata\.plugins\org.eclipse.cdt.core\adas_test.1472019192461.pdom
+* .metadata\.plugins\org.eclipse.cdt.make.core\
+* .metadata\.plugins\org.eclipse.cdt.make.core\specs.c
+* .metadata\.plugins\org.eclipse.cdt.make.core\specs.cpp
+* .metadata\.plugins\org.eclipse.cdt.ui\
+* .metadata\.plugins\org.eclipse.cdt.ui\AdasUpdate.build.log
+* .metadata\.plugins\org.eclipse.cdt.ui\global-build.log
+* .metadata\.plugins\org.eclipse.core.resources\
+* .metadata\.plugins\org.eclipse.core.resources\.history\
+* .metadata\.plugins\org.eclipse.core.resources\.history\49\
+* .metadata\.plugins\org.eclipse.core.resources\.history\49\a06b778cc169001615c59e3e1b582db4
+* .metadata\.plugins\org.eclipse.core.resources\.history\58\
+* .metadata\.plugins\org.eclipse.core.resources\.history\58\f02e788cc169001615c59e3e1b582db4
+* .metadata\.plugins\org.eclipse.core.resources\.history\7a\
+* .metadata\.plugins\org.eclipse.core.resources\.history\7a\300d688dc169001615c59e3e1b582db4
+* .metadata\.plugins\org.eclipse.core.resources\.history\95\
+* .metadata\.plugins\org.eclipse.core.resources\.history\95\30be068ec169001615c59e3e1b582db4
+* .metadata\.plugins\org.eclipse.core.resources\.history\96\
+* .metadata\.plugins\org.eclipse.core.resources\.history\96\00c77a8cc169001615c59e3e1b582db4
+* .metadata\.plugins\org.eclipse.core.resources\.history\9f\
+* .metadata\.plugins\org.eclipse.core.resources\.history\9f\8081078ec169001615c59e3e1b582db4
+* .metadata\.plugins\org.eclipse.core.resources\.projects\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.indexes\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.indexes\50\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.indexes\50\history.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.indexes\7\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.indexes\7\26\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.indexes\7\26\history.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.indexes\a0\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.indexes\a0\d6\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.indexes\a0\d6\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.indexes\a0\de\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.indexes\a0\de\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.indexes\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.location
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\.markers
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\org.eclipse.egit.core\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\org.eclipse.egit.core\GitProjectData.properties
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\org.eclipse.jdt.core\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\AdasUpdate\org.eclipse.jdt.core\state.dat
+* .metadata\.plugins\org.eclipse.core.resources\.projects\OpenCV Library - 2.4.10\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\OpenCV Library - 2.4.10\.indexes\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\OpenCV Library - 2.4.10\.indexes\a0\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\OpenCV Library - 2.4.10\.indexes\a0\de\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\OpenCV Library - 2.4.10\.indexes\a0\de\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\OpenCV Library - 2.4.10\.indexes\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\OpenCV Library - 2.4.10\.location
+* .metadata\.plugins\org.eclipse.core.resources\.projects\OpenCV Library - 2.4.10\.markers
+* .metadata\.plugins\org.eclipse.core.resources\.projects\OpenCV Library - 2.4.10\org.eclipse.jdt.core\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\OpenCV Library - 2.4.10\org.eclipse.jdt.core\state.dat
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\.indexes\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\.indexes\a0\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\.indexes\a0\de\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\.indexes\a0\de\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\.indexes\a0\eb\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\.indexes\a0\eb\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\.indexes\a0\ee\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\.indexes\a0\ee\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\.indexes\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\.location
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\.markers
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\org.eclipse.egit.core\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_lib\org.eclipse.egit.core\GitProjectData.properties
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\5f\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\5f\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\8a\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\8a\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\d6\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\d6\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\de\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\de\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\eb\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\eb\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\ee\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\a0\ee\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.indexes\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.location
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\.markers
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\org.eclipse.egit.core\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\org.eclipse.egit.core\GitProjectData.properties
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\org.eclipse.jdt.core\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\adas_test\org.eclipse.jdt.core\state.dat
+* .metadata\.plugins\org.eclipse.core.resources\.root\
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version
+* .metadata\.plugins\org.eclipse.core.resources\.root\1.tree
+* .metadata\.plugins\org.eclipse.core.resources\.root\3.tree
+* .metadata\.plugins\org.eclipse.core.resources\.safetable\
+* .metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources
+* .metadata\.plugins\org.eclipse.core.runtime\
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\com.android.ide.eclipse.adt.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.core.prj-AdasUpdate.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.core.prj-adas_lib.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.core.prj-adas_test.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.debug.core.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.managedbuilder.core.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.core.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.egit.core.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.core.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.launching.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs
+* .metadata\.plugins\org.eclipse.debug.core\
+* .metadata\.plugins\org.eclipse.debug.core\.launches\
+* .metadata\.plugins\org.eclipse.debug.core\.launches\AdasUpdate.launch
+* .metadata\.plugins\org.eclipse.debug.ui\
+* .metadata\.plugins\org.eclipse.debug.ui\launchConfigurationHistory.xml
+* .metadata\.plugins\org.eclipse.e4.workbench\
+* .metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi
+* .metadata\.plugins\org.eclipse.jdt.core\
+* .metadata\.plugins\org.eclipse.jdt.core\2254354759.index
+* .metadata\.plugins\org.eclipse.jdt.core\2331196692.index
+* .metadata\.plugins\org.eclipse.jdt.core\2572602525.index
+* .metadata\.plugins\org.eclipse.jdt.core\2838353365.index
+* .metadata\.plugins\org.eclipse.jdt.core\3155489826.index
+* .metadata\.plugins\org.eclipse.jdt.core\3744876057.index
+* .metadata\.plugins\org.eclipse.jdt.core\3789655285.index
+* .metadata\.plugins\org.eclipse.jdt.core\3824860938.index
+* .metadata\.plugins\org.eclipse.jdt.core\4215541967.index
+* .metadata\.plugins\org.eclipse.jdt.core\externalLibsTimeStamps
+* .metadata\.plugins\org.eclipse.jdt.core\indexNamesMap.txt
+* .metadata\.plugins\org.eclipse.jdt.core\invalidArchivesCache
+* .metadata\.plugins\org.eclipse.jdt.core\javaLikeNames.txt
+* .metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache
+* .metadata\.plugins\org.eclipse.jdt.core\savedIndexNames.txt
+* .metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat
+* .metadata\.plugins\org.eclipse.jdt.launching\
+* .metadata\.plugins\org.eclipse.jdt.launching\.install.xml
+* .metadata\.plugins\org.eclipse.jdt.launching\libraryInfos.xml
+* .metadata\.plugins\org.eclipse.jdt.ui\
+* .metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml
+* .metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml
+* .metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ui.ide\
+* .metadata\.plugins\org.eclipse.ui.ide\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ui.workbench\
+* .metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml
+* .metadata\.plugins\org.eclipse.wst.sse.core\
+* .metadata\.plugins\org.eclipse.wst.sse.core\task-tags.properties
+* .metadata\version.ini
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\adas.jar => app\libs\adas.jar
+* libs\aliyun-oss-sdk-android-2.2.0.jar => app\libs\aliyun-oss-sdk-android-2.2.0.jar
+* libs\arm64-v8a\libadas_lib.so => app\src\main\jniLibs\arm64-v8a\libadas_lib.so
+* libs\arm64-v8a\libAdasLib.so => app\src\main\jniLibs\arm64-v8a\libAdasLib.so
+* libs\arm64-v8a\libcrypto.so => app\src\main\jniLibs\arm64-v8a\libcrypto.so
+* libs\armeabi-v7a\libadas_lib.so => app\src\main\jniLibs\armeabi-v7a\libadas_lib.so
+* libs\armeabi-v7a\libAdasLib.so => app\src\main\jniLibs\armeabi-v7a\libAdasLib.so
+* libs\armeabi-v7a\libcrypto.so => app\src\main\jniLibs\armeabi-v7a\libcrypto.so
+* libs\armeabi\libadas_lib.so => app\src\main\jniLibs\armeabi\libadas_lib.so
+* libs\armeabi\libAdasLib.so => app\src\main\jniLibs\armeabi\libAdasLib.so
+* libs\armeabi\libcrypto.so => app\src\main\jniLibs\armeabi\libcrypto.so
+* libs\okhttp-3.2.0.jar => app\libs\okhttp-3.2.0.jar
+* libs\okio-1.6.0.jar => app\libs\okio-1.6.0.jar
+* libs\x86\libadas_lib.so => app\src\main\jniLibs\x86\libadas_lib.so
+* libs\x86\libAdasLib.so => app\src\main\jniLibs\x86\libAdasLib.so
+* libs\x86\libcrypto.so => app\src\main\jniLibs\x86\libcrypto.so
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

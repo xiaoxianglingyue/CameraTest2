@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\warning_stopgo.wav",
+        "source": "F:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\src\\main\\res\\raw\\warning_stopgo.wav"
+    },
+    {
+        "merged": "F:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\warning_car.wav",
+        "source": "F:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\src\\main\\res\\raw\\warning_car.wav"
+    },
+    {
+        "merged": "F:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\warning_lane.wav",
+        "source": "F:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\src\\main\\res\\raw\\warning_lane.wav"
+    }
+]

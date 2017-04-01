@@ -1,0 +1,13 @@
+#Sat Apr 01 16:24:04 CST 2017
+renamed.3=classes3.dex
+renamed.2=classes.dex
+renamed.1=classes4.dex
+renamed.0=classes2.dex
+base.3=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\okhttp-3.2.0_6b03087c5819bb523516475bdb81284f64f9905c
+base.2=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\adas_f26e74a02706adf151d822982abd792a2ebadacd
+base.1=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\okio-1.6.0_e843cf8fc06d8bc93d5189584d1e7e827907aced
+base.0=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\aliyun-oss-sdk-android-2.2.0_172b7b622c52299921e72d110328c3f8299caa31
+file.3=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\okhttp-3.2.0_6b03087c5819bb523516475bdb81284f64f9905c\\classes.dex
+file.2=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\adas_f26e74a02706adf151d822982abd792a2ebadacd\\classes.dex
+file.1=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\okio-1.6.0_e843cf8fc06d8bc93d5189584d1e7e827907aced\\classes.dex
+file.0=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\aliyun-oss-sdk-android-2.2.0_172b7b622c52299921e72d110328c3f8299caa31\\classes.dex

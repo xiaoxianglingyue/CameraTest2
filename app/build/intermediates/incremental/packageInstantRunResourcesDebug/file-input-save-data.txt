@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Sat Apr 01 16:23:45 CST 2017
+2.base=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\assets\\debug\\210213640546278.dat
+7.set=ASSET
+count=9
+0.file=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\warning_car.wav
+4.set=ANDROID_RESOURCE
+6.base=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\assets\\debug\\2102136405363718.dat
+1.set=ASSET
+7.base=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\assets\\debug
+2.file=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\warning_stopgo.wav
+6.set=ANDROID_RESOURCE
+0.base=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\assets\\debug
+4.file=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\warning_lane.wav
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

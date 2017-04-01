@@ -1,0 +1,7 @@
+#Sat Apr 01 16:24:07 CST 2017
+base.0=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_59316f5318fc424e521b02db6e2cf248c36b98cb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ccf972c43f228b42224262bf8240579afdbb82b7\\classes.dex
+base.1=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ccf972c43f228b42224262bf8240579afdbb82b7
+file.0=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_59316f5318fc424e521b02db6e2cf248c36b98cb\\classes.dex

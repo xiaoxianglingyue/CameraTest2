@@ -1,0 +1,4 @@
+#Sat Apr 01 16:24:05 CST 2017
+base.0=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=F\:\\android studio\\Agora_Native_SDK_for_Android_FULL\\samples\\CameraTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

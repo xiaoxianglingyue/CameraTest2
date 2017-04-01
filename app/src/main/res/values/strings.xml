@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">CameraTest</string>
+    <string name="ok">确认</string>
+	<string name="check">校准</string>
+
+</resources>

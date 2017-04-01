@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="adas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/adas.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
